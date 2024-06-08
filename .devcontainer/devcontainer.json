@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/scala-sdkman:2": {}
+    , "ghcr.io/devcontainers-contrib/features/scalacli-sdkman:2": {}
+    , "ghcr.io/devcontainers/features/node:1": {}
+    , "ghcr.io/devcontainers-contrib/features/typescript:2": {}
+    , "ghcr.io/devcontainers-contrib/features/ts-node:1": {}
+    , "ghcr.io/devcontainers/features/python:1": {}
+    , "ghcr.io/eitsupi/devcontainer-features/just:0": {}
+  }
+}
